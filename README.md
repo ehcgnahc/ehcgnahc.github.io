@@ -1,3 +1,3 @@
-# [2048](ehcgnahc.github.io)
+# [2048](https://ehcgnahc.github.io/)
 
 very easy 2048
