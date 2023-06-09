@@ -87,7 +87,12 @@ document.addEventListener("keyup", (e) => {
         slideDown();
         setTwo();
     }
+    let best = 0;
+    if(score>best){
+        best = score;
+    }
     document.getElementById("score").innerText = score;
+    document.getElementById("best").innerText = best;
 })
 
 function filterZero(row){
